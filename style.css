@@ -49,3 +49,16 @@ img {
     display: block;
     margin: 0 auto;
 }
+/* Botones */
+button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #218838;
+}
